@@ -1,4 +1,4 @@
-// Changhun, Park
+// Changhyun, Park
 // lab0.cpp
 // 03/13/24
 
